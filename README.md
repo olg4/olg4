@@ -18,12 +18,12 @@
 
 #
 
-#### Portfolio
+#### 📎 Portfolio
 
 [<img src="/img/portfolio.png" width="300"/>](https://olg4.github.io/)
 
 #
 
-#### Some statistics to decorate
+####  📊 Some stats to decorate
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olg4&show_icons=true&theme=city_lights)
