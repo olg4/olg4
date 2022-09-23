@@ -1,4 +1,4 @@
-# Olga
+# 🏞 Olga
 **`Software Developer`**
 <h4>  📌 &nbsp;Some languages and tools I've already used</h4>
 
