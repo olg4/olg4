@@ -1,6 +1,6 @@
 # Olga
 **`Software Developer`**
-<h4>  📌 &nbsp;Some languages and tools I've already used</h4>
+#### 📌 &nbsp;Some languages and tools I've already used
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" style="padding-right:10px;" align="left"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" style="padding-right:10px;" align="left"/>
@@ -15,4 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" style="padding-right:10px;" align="left"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olg4&show_icons=true&theme=radical)
+#
+
+#### Some statistics to decorate
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olg4&show_icons=true&theme=city_lights)
