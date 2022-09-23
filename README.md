@@ -1,5 +1,5 @@
-## I'm Olga 👋
-### a Software Developer
+# Olga
+**`Software Developer`**
 <h4>  📌 &nbsp;Some languages and tools I've already used</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" style="padding-right:10px;" align="left"/> 
