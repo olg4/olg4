@@ -20,7 +20,7 @@
 
 #### 📎 Portfolio
 
-[<img src="/img/portfolio.png" width="300"/>](https://olg4.github.io/)
+[<img src="/img/portfolio.png" width="300"/>](https://olg4.github.io/){:target="_blank"}
 
 #
 
