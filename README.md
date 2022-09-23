@@ -1,5 +1,16 @@
 # Olga
 **`Software Developer`**
+
+#
+
+<p align="left">
+  <img alt="web" title="web" src="https://badgen.net/badge/🕸/web/orange"/>
+  <img alt="app" title="app" src="https://badgen.net/badge/💻/app/pink"/>
+  <img alt="mobile" title="mobile" src="https://badgen.net/badge/📱/mobile/blue"/>
+</p>
+ 
+#
+
 #### 📌 &nbsp;Some languages and tools I've already worked with
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" style="padding-right:10px;" align="left"/> 
@@ -19,11 +30,11 @@
 #
 
 #### 📎 Portfolio
-
-[<img src="/img/portfolio.png" width="300"/>](https://olg4.github.io/){:target="_blank"}
+[<img src="/img/portfolio.png" width="300"/>](https://olg4.github.io/)
 
 #
 
 ####  📊 Some stats to decorate
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olg4&show_icons=true&theme=city_lights)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olg4&layout=compact)](https://github.com/olg4/github-readme-stats)
