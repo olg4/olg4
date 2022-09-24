@@ -34,10 +34,16 @@
 
 #
 
-####  📊 Some stats to decorate
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olg4&show_icons=true&theme=city_lights)
+#### 🎥 FilmBox project, an Android App
+[<img src="https://github.com/olg4/FilmBox/blob/master/img/filmbox.png" width="300" align="righg"/>](https://github.com/olg4/FilmBox)
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olg4&layout=compact)](https://github.com/olg4/github-readme-stats)
+####  📊 Some stats to decorate
+
+stats             |  Languages
+:-------------------------:|:-------------------------:
+![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=olg4&show_icons=true&theme=city_lights)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olg4&layout=compact)](https://github.com/olg4/github-readme-stats)
+
+
+#
